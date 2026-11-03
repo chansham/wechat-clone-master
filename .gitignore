@@ -1,0 +1,15 @@
+# IPA 與打包產物（勿提交）
+*.ipa
+input.ipa
+WeChat_Clone.ipa
+
+# 本機執行
+daemon_error.log
+temp_extract/
+temp_archive.zip
+
+# Python
+__pycache__/
+.venv/
+venv/
+.env

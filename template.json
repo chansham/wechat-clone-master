@@ -1,0 +1,22 @@
+{
+  "name": "Jayson's Master Server Repo",
+  "identifier": "com.jayson.masterserver",
+  "sourceURL": "https://raw.githubusercontent.com/AUTO_GITHUB_NAME/wechat-clone-master/main/repo.json",
+  "apps": [
+    {
+      "name": "微信分身",
+      "bundleIdentifier": "com.tencent.xin2",
+      "developerName": "Tencent (Zero-Trust Master Server)",
+      "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/main/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-03",
+          "localizedDescription": "電腦主機全自動安檢與重打包分身版",
+          "downloadURL": "",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}
